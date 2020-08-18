@@ -1,1 +1,11 @@
 # Blockchain
+1. The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments ('16)
+2. Secure Balance Planning of Off-blockchain Payment Channel Networks (INFOCOM'20)
+3. General State Channel Networks (CCS'18)
+4. Revive: Rebalancing Off-Blockchain Payment Networks (CCS'17)
+5. Concurrency and Privacy with Payment-Channel Networks (CCS'17)
+6. Sprites: Payment Channels that Go Faster than Lightning (CoRR'17)
+7. PERUN: Virtual Payment Hubs over Cryptographic Currencies (IACR'17)
+8. Flare: An Approach to Routing in Lightning Network ('16)
+9. CoinExpress: A Fast Payment Routing Mechanism in Blockchain-based Payment Channel Networks (ICCCN'18)
+10. A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels (SSS'15)
