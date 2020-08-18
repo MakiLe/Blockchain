@@ -1,5 +1,5 @@
 # Blockchain
-## Payment Network
+## Payment Networks
 1. [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments ('16)](https://www.bitcoinlightning.com/wp-content/uploads/2018/03/lightning-network-paper.pdf)
 2. [Secure Balance Planning of Off-blockchain Payment Channel Networks (INFOCOM'20)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9155375)
 3. [General State Channel Networks (CCS'18)](https://dl.acm.org/doi/pdf/10.1145/3243734.3243856)
